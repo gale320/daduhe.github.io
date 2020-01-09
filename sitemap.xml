@@ -3,11 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://daduhe.github.io/categories/</loc>
+    <loc>http://daduhe.github.io/about/</loc>
+    <lastmod>2020-01-09T16:14:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>http://daduhe.github.io/</loc>
+    <lastmod>2020-01-09T16:14:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://daduhe.github.io/categories/</loc>
   </url>
   
   <url>
